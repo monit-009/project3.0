@@ -5,7 +5,7 @@ end to end project setup
 
 >>python setup.py install
 
-# in requirements.txt -e . to install coustame packages and '.' in -e use for current directory
+# In requirements.txt write "-e ." to install coustome packages and dot in -e . use for current directory
 -e .
 
 >>pip install -r requirements.txt
