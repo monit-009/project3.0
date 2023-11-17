@@ -14,9 +14,9 @@ list_of_files=[
     f"src/{package_name}/pipelines/prediction_pipeline.py",
     f"src/{package_name}/logger.py",
     f"src/{package_name}/exception.py",
-    f"src/{package_name}/utils/__init__.py"
-    "notebooks/research.ipynb",
+    f"src/{package_name}/utils/__init__.py",
     "notebooks/data/.gitkeep",
+    "notebooks/research.ipynb",
     "requirements.txt",
     "setup.py",
     "init_setup.sh"
